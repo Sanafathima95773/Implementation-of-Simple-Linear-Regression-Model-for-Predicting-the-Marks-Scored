@@ -14,6 +14,7 @@ To write a program to predict the marks scored by a student using the simple lin
 4. 
 
 ## Program:
+```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: Sana Fathima H
@@ -52,6 +53,7 @@ plt.ylabel('Y')
 plt.plot(X_train,lr.predict(X_train),color='red')
 */  
 */
+```
 ## Output:
 
 ![image](https://github.com/Sanafathima95773/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/147084627/b42db7b9-0af9-422c-abb5-be7e98a28053)
