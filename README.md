@@ -23,27 +23,6 @@ To write a program to predict the marks scored by a student using the simple lin
 ## Program:
 ```
 /*
-Implementation of Univariate Linear Regression
-AIM:
-To implement univariate Linear Regression to fit a straight line using least squares.
-
-Equipments Required:
-Hardware – PCs
-Anaconda – Python 3.7 Installation / Jupyter notebook
-Algorithm
-Get the independent variable X and dependent variable Y.
-Calculate the mean of the X -values and the mean of the Y -values.
-Find the slope m of the line of best fit using the formula.
-image
-
-4. Compute the y -intercept of the line by using the formula:
-image
-
-5. Use the slope m and the y -intercept to form the equation of the line. 6. Obtain the straight line equation Y=mX+b and plot the scatterplot.
-
-Program:
-```
-/*
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: Sana Fathima H
 RegisterNumber: 212223240145
