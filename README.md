@@ -47,7 +47,6 @@ lr.coef_
 lr.intercept_
 ```
 ## Output:
-
 1) Head:
 ![image](https://github.com/Sanafathima95773/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/147084627/487073a2-148b-48e1-99a0-25ed14b87ffc)
 2) Graph Of Plotted Data:
