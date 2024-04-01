@@ -42,13 +42,12 @@ image
 5. Use the slope m and the y -intercept to form the equation of the line. 6. Obtain the straight line equation Y=mX+b and plot the scatterplot.
 
 Program:
-
 ```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: Sana Fathima H
 RegisterNumber: 212223240145
-*/
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
