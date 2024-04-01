@@ -8,17 +8,11 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1.Import the standard Libraries.
-
-2.Set variables for assigning dataset values.
-
-3.Import linear regression from sklearn.
-
-4.Assign the points for representing in the graph
-
-5.Predict the regression for marks by using the representation of the graph.
-
-6.Compare the graphs and hence we obtained the linear regression for the given datas.
+1 Import necessary libraries (e.g., pandas, numpy,matplotlib).
+2 Load the dataset and then split the dataset into training and testing sets using sklearn library.
+3 Create a Linear Regression model and train the model using the training data (study hours as input, marks scored as output).
+4 Use the trained model to predict marks based on study hours in the test dataset.
+5 Plot the regression line on a scatter plot to visualize the relationship between study hours and marks scored.
 
 ## Program:
 ```
@@ -53,6 +47,7 @@ lr.coef_
 lr.intercept_
 ```
 ## Output:
+
 1) Head:
 ![image](https://github.com/Sanafathima95773/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/147084627/487073a2-148b-48e1-99a0-25ed14b87ffc)
 2) Graph Of Plotted Data:
